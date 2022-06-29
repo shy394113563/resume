@@ -1,4 +1,4 @@
-# 联系方式 <img style="float:right" src="F:\简历\shy.png" width="100" height="150" alt="xxx" />
+# 联系方式 <img style="float:right;image-rendering:-webkit-optimize-contrast;" src="F:\简历\shy.png" width="100" height="150" alt="xxx" />
 
 - 手机：13770862699
 - Email：394113563@qq.com
@@ -14,7 +14,7 @@
  - 政治面貌：党员
  - 期望职位：Web前端开发
  - 期望职位：Web前端开发
- 
+
 ---
 
 # 工作经历
@@ -33,7 +33,7 @@
 
 （每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
 
- 
+
 ## JKL公司 （ 2010年3月 ~ 2012年8月 ）
 
 ### MNO项目 
